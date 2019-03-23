@@ -1,7 +1,7 @@
 ########################################################
 #
 # Author:  Mamata Anil Parab                           
-# Project: Finding minimum of element of list         
+# Project: Finding minimum element of list         
 # Input:   70,30,80,90,50                                  
 # Output:  30
 #
