@@ -1,7 +1,7 @@
 ########################################################
 #
 # Author:  Mamata Anil Parab                           
-# Project: Finding maximum of elements of list         
+# Project: Finding maximum element from list         
 # Input:   70,30,80,90,50                                  
 # Output:  90
 #
